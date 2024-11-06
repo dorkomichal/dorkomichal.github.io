@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Michal's technical meditations"
+title: "Michal's Technical Meditations"
 name: "Michal Dorko"
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -26,6 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dorkomichal.github.io" 
 github_username:  "dorkomichal"
+logo: "/assets/images/masthead-logo-1.jpg"
 
 defaults:
   # _posts
@@ -50,8 +51,14 @@ social:
 author:
   name     : "Michal Dorko"
   avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Software Engineer. Mostly C++."
+  bio      : "Software Engineer.\n 
+               Mostly C++.\n 
+               Occasionally Machine Learning."
   location : "United Kingdom"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dorkomichal/"
   
               
 # Build settings
