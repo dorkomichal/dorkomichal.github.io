@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Michal's Technical Meditations"
+title: "Michal Dorko"
 name: "Michal Dorko"
-#email: your-email@example.com
+email: "michal.dorko@example.com" # Replace with your actual email
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog of Michal Dorko containing posts on various technical topics
+  Software Engineer specializing in C++ and Machine Learning. Passionate about building efficient, scalable solutions and exploring the intersection of technology and innovation.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dorkomichal.github.io" 
 github_username:  "dorkomichal"
@@ -51,16 +51,26 @@ social:
 author:
   name     : "Michal Dorko"
   avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Software Engineer.\n 
-               Mostly C++.\n 
-               Occasionally Machine Learning."
+  bio      : "Software Engineer with a passion for high-performance computing and machine learning. I specialize in C++ development and enjoy exploring the latest trends in AI and data science. Based in the United Kingdom, I'm always eager to tackle challenging technical problems and contribute to innovative projects."
   location : "United Kingdom"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dorkomichal/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dorkomichal"
   
               
+# Navigation
+navigation:
+  - title: "About"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
+
 # Build settings
 theme: minimal-mistakes-jekyll
 plugins:
