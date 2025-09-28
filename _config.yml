@@ -51,7 +51,7 @@ social:
 author:
   name     : "Michal Dorko"
   avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Software Engineer with a passion for high-performance computing and machine learning. I specialize in C++ development and enjoy exploring the latest trends in AI and data science. Based in the United Kingdom, I'm always eager to tackle challenging technical problems and contribute to innovative projects."
+  bio      : "Software Engineer with a passion for high-performance computing and machine learning. I specialize in low-latency C++ development for finance and trading and enjoy exploring the latest trends in AI and data science. Based in the United Kingdom, I'm always eager to tackle challenging technical problems and contribute to innovative projects."
   location : "United Kingdom"
   links:
     - label: "LinkedIn"

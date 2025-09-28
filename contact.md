@@ -35,7 +35,7 @@ I'm always interested in connecting with fellow developers, discussing new oppor
 
 ## Response Time
 
-I typically respond to messages within 24-48 hours. For urgent matters, please mention it in your message.
+I try to respond to messages within 2-3 days.
 
 ## Location
 
@@ -43,6 +43,4 @@ Based in the **United Kingdom**, but open to remote collaboration and opportunit
 
 ---
 
-*"The best way to find out if you can trust somebody is to trust them."* - Ernest Hemingway
-
-*Let's build something amazing together!*
+*"Real developers test in production"*

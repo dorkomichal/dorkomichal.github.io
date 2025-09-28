@@ -39,11 +39,11 @@ Here are some of the key projects and achievements that represent my technical j
 ## Future Projects
 
 ### Technical Blog
-I'm planning to start writing technical blog posts covering:
+I would love to start writing technical blog posts if time permits covering:
 - C++ best practices and advanced techniques
+- Virtual machine and compiler design insights
 - Machine learning applications in various domains
 - Software engineering methodologies and sustainability
-- Virtual machine and compiler design insights
 - Industry trends and technical deep-dives
 
 *This section will be updated as I publish new content.*
@@ -51,10 +51,11 @@ I'm planning to start writing technical blog posts covering:
 ## Professional Focus
 
 While I don't currently have extensive open source contributions due to time constraints, my professional work has focused on:
+- **Low-latency C++**: Applications for trading and finance
+- **Language Design**: Working with proprietary programming languages and runtimes
 - **High-Performance Computing**: Optimizing runtime systems and virtual machines
 - **Machine Learning Applications**: Applying ML techniques to real-world problems
 - **Sustainability in Software**: Promoting green software engineering practices
-- **Language Design**: Working with proprietary programming languages and runtimes
 
 ## Get Involved
 
@@ -62,4 +63,4 @@ If you're interested in collaborating on any of these projects or have ideas for
 
 ---
 
-*"The only way to do great work is to love what you do."* - Steve Jobs
+*"Real developers test in production"*

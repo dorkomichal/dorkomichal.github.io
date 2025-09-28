@@ -7,7 +7,7 @@ author_profile: true
 
 # Hi, I'm Michal Dorko
 
-I'm a Software Engineer with a passion for high-performance computing and machine learning. Based in the United Kingdom, I specialize in C++ development and enjoy exploring the latest trends in AI and data science.
+I'm a Software Engineer with a passion for low-latency C++, programming languages desgin, high-performance computing and machine learning. Based in the United Kingdom, I specialize in low latency C++ development and bytecode virtual machines and enjoy exploring the latest trends in AI and data science.
 
 ## My Journey
 
@@ -15,18 +15,17 @@ My journey in software engineering began with a fascination for how computers wo
 
 ## Technical Expertise
 
-- **Languages**: C++, Python, JavaScript, SQL
-- **Frameworks & Tools**: TensorFlow, PyTorch, OpenCV, Docker, Git
-- **Areas of Interest**: Machine Learning, Computer Vision, High-Performance Computing, Software Architecture
+- **Languages**: C++ 17, Python
+- **Frameworks & Tools**: PyTorch, CUDA, Docker, Git
+- **Areas of Interest**:  Low-Latency C++, High-Performance Computing, Software Architecture, Machine Learning, Computer Vision
 - **Development Practices**: Test-Driven Development, Agile Methodologies, Code Review
 
 ## What I Do
 
 When I'm not coding, you can find me:
 - Reading about the latest developments in AI and machine learning
-- Contributing to open source projects
 - Exploring new programming languages and frameworks
-- Writing technical articles and sharing knowledge with the community
+- Reading technical articles and sharing knowledge with the community
 
 ## Let's Connect
 
@@ -34,4 +33,4 @@ I'm always interested in discussing technology, software engineering challenges,
 
 ---
 
-*"The best way to predict the future is to create it."* - Alan Kay
+*"Real developers test in production"*
